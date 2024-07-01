@@ -236,7 +236,7 @@ meteor add newswim:particles
 
 -------------------------------
 
-#### 'React Native Demo'
+### `React Native Demo`
 
 If you want to integrate particles.js-like animations into your React Native project, you can access detailed instructions in the React Native demo file. Please refer to the [README](react-native-demo/README.md) file for more information.
 
